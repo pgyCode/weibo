@@ -1,0 +1,672 @@
+{
+	"response": {
+		"retailMenuVOs": [{
+			"menuId": 101101101,
+			"menuName": "收银开单",
+			"mapBizPerms": {
+				"retail": [0, 1125899906842624]
+			}
+		}, {
+			"menuId": 101101106,
+			"menuName": "扫码核销",
+			"mapBizPerms": {
+				"retail": [128]
+			}
+		}, {
+			"menuId": 102101101,
+			"menuName": "订单查询",
+			"mapBizPerms": {
+				"retail": [256]
+			}
+		}, {
+			"menuId": 102101102,
+			"menuName": "退货退款",
+			"mapBizPerms": {
+				"retail": [8]
+			}
+		}, {
+			"menuId": 102101103,
+			"menuName": "网店退款退款",
+			"mapBizPerms": {
+				"retail": [0, 4503599627370496]
+			}
+		}, {
+			"menuId": 102101104,
+			"menuName": "销售发货",
+			"mapBizPerms": {
+				"retail": [0, 9007199254740992]
+			}
+		}, {
+			"menuId": 102101105,
+			"menuName": "资金去向查询",
+			"mapBizPerms": {
+				"retail": [512]
+			}
+		}, {
+			"menuId": 102101106,
+			"menuName": "订单详情页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 2147483648]
+			}
+		}, {
+			"menuId": 102101107,
+			"menuName": "发货列表页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 4294967296]
+			}
+		}, {
+			"menuId": 102101108,
+			"menuName": "发货详情页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 8589934592]
+			}
+		}, {
+			"menuId": 102101109,
+			"menuName": "到店自提页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 17179869184]
+			}
+		}, {
+			"menuId": 102101110,
+			"menuName": "退款列表页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 34359738368]
+			}
+		}, {
+			"menuId": 102101111,
+			"menuName": "退款详情页",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 68719476736]
+			}
+		}, {
+			"menuId": 102101113,
+			"menuName": "待处理退款列表",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,0,0,64]
+			}
+		}, {
+			"menuId": 103101101,
+			"menuName": "客户列表页",
+			"mapBizPerms": {
+				"retail": [1024]
+			}
+		}, {
+			"menuId": 103101102,
+			"menuName": "查看顾客列表",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 524288]
+			}
+		}, {
+			"menuId": 103101103,
+			"menuName": "查看会员详情",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 1048576]
+			}
+		}, {
+			"menuId": 103101104,
+			"menuName": "会员搜索",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 2097152]
+			}
+		}, {
+			"menuId": 103101105,
+			"menuName": "办理会员",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 4194304]
+			}
+		}, {
+			"menuId": 103101106,
+			"menuName": "编辑会员",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 8388608]
+			}
+		}, {
+			"menuId": 103102101,
+			"menuName": "储值金额列表",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 16777216]
+			}
+		}, {
+			"menuId": 103102102,
+			"menuName": "储值金额详情",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 33554432]
+			}
+		}, {
+			"menuId": 103102103,
+			"menuName": "客户充值",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 67108864]
+			}
+		}, {
+			"menuId": 103103101,
+			"menuName": "积分规则列表",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 134217728]
+			}
+		}, {
+			"menuId": 103103102,
+			"menuName": "积分规则详情",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 268435456]
+			}
+		}, {
+			"menuId": 103104101,
+			"menuName": "会员卡列表页",
+			"mapBizPerms": {
+				"retail": [0]
+			}
+		}, {
+			"menuId": 103105101,
+			"menuName": "会员充值弹窗",
+			"mapBizPerms": {
+				"retail": [0]
+			}
+		}, {
+			"menuId": 103107101,
+			"menuName": "积分规则页",
+			"mapBizPerms": {
+				"retail": [0]
+			}
+		}, {
+			"menuId": 104101101,
+			"menuName": "店铺详情编辑",
+			"mapBizPerms": {
+				"retail": [1]
+			}
+		}, {
+			"menuId": 104101102,
+			"menuName": "店铺订购",
+			"mapBizPerms": {
+				"retail": [32768]
+			}
+		}, {
+			"menuId": 104101103,
+			"menuName": "店铺收款方式",
+			"mapBizPerms": {
+				"retail": [65536]
+			}
+		}, {
+			"menuId": 104101103,
+			"menuName": "店铺收款方式",
+			"mapBizPerms": {
+				"retail": [65536]
+			}
+		}, {
+			"menuId": 104101104,
+			"menuName": "店铺信息查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 4503599627370496]
+			}
+		}, {
+			"menuId": 104102101,
+			"menuName": "设备管理页面",
+			"mapBizPerms": {
+				"retail": [0, 2251799813685248]
+			}
+		}, {
+			"menuId": 104103101,
+			"menuName": "优惠折扣设置",
+			"mapBizPerms": {
+				"retail": [2]
+			}
+		}, {
+			"menuId": 104104101,
+			"menuName": "抹零设置",
+			"mapBizPerms": {
+				"retail": [4]
+			}
+		}, {
+			"menuId": 104105101,
+			"menuName": "台卡收款提示音设置页面",
+			"mapBizPerms": {
+				"retail": [4]
+			}
+		}, {
+			"menuId": 104106101,
+			"menuName": "小票设置页面",
+			"mapBizPerms": {
+				"retail": [16]
+			}
+		}, {
+			"menuId": 104106101,
+			"menuName": "小票设置",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 137438953472]
+			}
+		}, {
+			"menuId": 104107101,
+			"menuName": "员工列表",
+			"mapBizPerms": {
+				"retail": [32]
+			}
+		}, {
+			"menuId": 104107102,
+			"menuName": "员工添加和编辑",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 274877906944]
+			}
+		}, {
+			"menuId": 104108101,
+			"menuName": "交班设置页",
+			"mapBizPerms": {
+				"retail": [64]
+			}
+		}, {
+			"menuId": 104108102,
+			"menuName": "交班设置入口",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,9007199254740992]
+			}
+		}, {
+			"menuId": 104109101,
+			"menuName": "副屏设置",
+			"mapBizPerms": {
+				"retail": [0, 18014398509481984]
+			}
+		}, {
+			"menuId": 104110101,
+			"menuName": "零售物料查看",
+			"mapBizPerms": {
+				"retail": [131072]
+			}
+		}, {
+			"menuId": 104111101,
+			"menuName": "服务市场入口",
+			"mapBizPerms": {
+				"retail": [262144]
+			}
+		}, {
+			"menuId": 104111102,
+			"menuName": "商家社区",
+			"mapBizPerms": {
+				"retail": [524288]
+			}
+		}, {
+			"menuId": 104111103,
+			"menuName": "有赞小报",
+			"mapBizPerms": {
+				"retail": [1048576]
+			}
+		}, {
+			"menuId": 104111104,
+			"menuName": "咨询客服",
+			"mapBizPerms": {
+				"retail": [2097152]
+			}
+		}, {
+			"menuId": 104112101,
+			"menuName": "消息设置入口",
+			"mapBizPerms": {
+				"retail": [4194304]
+			}
+		}, {
+			"menuId": 104113101,
+			"menuName": "负库存设置",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 2305843009213693952]
+			}
+		},{
+			"menuId": 104114101,
+			"menuName": "改价设置修改",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 281474976710656]
+			}
+		},{
+			"menuId": 104114102,
+			"menuName": "改价设置查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 562949953421312]
+			}
+		}, {
+			"menuId": 105101101,
+			"menuName": "交班功能",
+			"mapBizPerms": {
+				"retail": [268435456]
+			}
+		}, {
+			"menuId": 105101102,
+			"menuName": "交班记录",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,4503599627370496]
+			}
+		}, {
+			"menuId": 106101101,
+			"menuName": "管理银行卡功能",
+			"mapBizPerms": {
+				"retail": [0, 36028797018963968]
+			}
+		}, {
+			"menuId": 106102101,
+			"menuName": "提现",
+			"mapBizPerms": {
+				"retail": [0, 72057594037927936]
+			}
+		}, {
+			"menuId": 106103101,
+			"menuName": "资金查看",
+			"mapBizPerms": {
+				"retail": [2048]
+			}
+		},{
+			"menuId": 106104101,
+			"menuName": "资产概况",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,0,4096]
+			}
+		},{
+			"menuId": 106104102,
+			"menuName": "提现",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,0,8192]
+			}
+		},{
+			"menuId": 106105101,
+			"menuName": "账单明细",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,0,16384]
+			}
+		},{
+			"menuId": 106106101,
+			"menuName": "收支总汇",
+			"mapBizPerms": {
+				"retail":[0,0,0,0,0,0,0,0,0,0,32768]
+			}
+		}, {
+			"menuId": 107101101,
+			"menuName": "商品列表查看和搜索",
+			"mapBizPerms": {
+				"retail": [4096]
+			}
+		}, {
+			"menuId": 107102101,
+			"menuName": "网店商品列表查看和搜索",
+			"mapBizPerms": {
+				"retail": [8388608]
+			}
+		}, {
+			"menuId": 107102102,
+			"menuName": "网店商品编辑",
+			"mapBizPerms": {
+				"retail": [16777216]
+			}
+		}, {
+			"menuId": 107102103,
+			"menuName": "网店商品删除",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 4611686018427387904]
+			}
+		}, {
+			"menuId": 107102104,
+			"menuName": "网店商品上下架",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, -9223372036854775808]
+			}
+		}, {
+			"menuId": 107102105,
+			"menuName": "网店商品发布",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 1]
+			}
+		}, {
+			"menuId": 107102106,
+			"menuName": "网店商品更新",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 2]
+			}
+		}, {
+			"menuId": 107103101,
+			"menuName": "商品库商品查看",
+			"mapBizPerms": {
+				"retail": [33554432]
+			}
+		}, {
+			"menuId": 107103102,
+			"menuName": "商品库商品编辑",
+			"mapBizPerms": {
+				"retail": [67108864]
+			}
+		}, {
+			"menuId": 107103103,
+			"menuName": "商品库商品新增",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 4]
+			}
+		}, {
+			"menuId": 107103104,
+			"menuName": "商品库商品删除",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 8]
+			}
+		}, {
+			"menuId": 107103105,
+			"menuName": "商品库商品更新",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 65536]
+			}
+		}, {
+			"menuId": 107104101,
+			"menuName": "门店商品查看",
+			"mapBizPerms": {
+				"retail": [134217728]
+			}
+		},  {
+			"menuId": 107104103,
+			"menuName": "门店商品发布",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 16]
+			}
+		}, {
+			"menuId": 107104104,
+			"menuName": "门店商品删除",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 32]
+			}
+		}, {
+			"menuId": 107104105,
+			"menuName": "门店商品上下架",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 64]
+			}
+		}, {
+			"menuId": 107104106,
+			"menuName": "门店商品更新",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 128]
+			}
+		}, {
+			"menuId": 107105101,
+			"menuName": "分类查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 256]
+			}
+		}, {
+			"menuId": 107105102,
+			"menuName": "分类编辑",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 512]
+			}
+		}, {
+			"menuId": 107105103,
+			"menuName": "分类删除",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 1024]
+			}
+		}, {
+			"menuId": 107105104,
+			"menuName": "分类新增",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 2048]
+			}
+		}, {
+			"menuId": 107106101,
+			"menuName": "网店分组新增",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 4096]
+			}
+		}, {
+			"menuId": 107106102,
+			"menuName": "网店分组查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 8192]
+			}
+		}, {
+			"menuId": 107106103,
+			"menuName": "网店分组更新",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 16384]
+			}
+		}, {
+			"menuId": 107106104,
+			"menuName": "网店分组删除",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 32768]
+			}
+		}, {
+			"menuId": 108101101,
+			"menuName": "数据统计首页查看",
+			"mapBizPerms": {
+				"retail": [8192]
+			}
+		}, {
+			"menuId": 108102101,
+			"menuName": "首页实时数据统计",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 1099511627776]
+			}
+		}, {
+			"menuId": 108102102,
+			"menuName": "首页待办事项统计",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 2199023255552]
+			}
+		}, {
+			"menuId": 109101101,
+			"menuName": "消息列表查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 4398046511104]
+			}
+		}, {
+			"menuId": 110101101,
+			"menuName": "库存查询，搜索",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 8796093022208]
+			}
+		}, {
+			"menuId": 110102101,
+			"menuName": "采购入库操作",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 17592186044416]
+			}
+		}, {
+			"menuId": 110103101,
+			"menuName": "退货入库操作",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 35184372088832]
+			}
+		}, {
+			"menuId": 110104101,
+			"menuName": "商品出库操作",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 70368744177664]
+			}
+		}, {
+			"menuId": 110105101,
+			"menuName": "商品盘点操作",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 140737488355328]
+			}
+		}, {
+			"menuId": 110106101,
+			"menuName": "供应商查询管理",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 281474976710656]
+			}
+		}, {
+			"menuId": 110106102,
+			"menuName": "供应商更新",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 131072]
+			}
+		}, {
+			"menuId": 110106103,
+			"menuName": "供应商新增",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 0, 262144]
+			}
+		}, {
+			"menuId": 111101101,
+			"menuName": "业绩查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 18014398509481984]
+			}
+		}, {
+			"menuId": 111101102,
+			"menuName": "业绩编辑",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 36028797018963968]
+			}
+		}, {
+			"menuId": 111102101,
+			"menuName": "任务查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 72057594037927936]
+			}
+		}, {
+			"menuId": 111102102,
+			"menuName": "任务推广",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 144115188075855872]
+			}
+		}, {
+			"menuId": 111102103,
+			"menuName": "任务编辑",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 288230376151711744]
+			}
+		}, {
+			"menuId": 111103101,
+			"menuName": "导购列表查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 1152921504606846976]
+			}
+		}, {
+			"menuId": 112101101,
+			"menuName": "采购要货单列表查看",
+			"mapBizPerms": {
+				"retail": [0, 0, 0, 0, 0, 0, 1152921504606846976]
+			}
+		}, {
+			"menuId": 112102101,
+			"menuName": "采购要货入库列表查看",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,70368744177664]
+			}
+		}, {
+			"menuId": 112105101,
+			"menuName": "采购订单查看",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,1152921504606847000]
+			}
+		}, {
+			"menuId": 112103102,
+			"menuName": "采购入库单查看",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,0,16]
+			}
+		}, {
+			"menuId": 112106101,
+			"menuName": "采购退货单查看",
+			"mapBizPerms": {
+				"retail": [0,0,0,0,0,0,0,0,0,-9223372036854776000]
+			}
+		}, {
+			"menuId": 112104101,
+			"menuName": "采购供应商查询",
+			"mapBizPerms": {
+				"retail": [0,0,0,281474976710656]
+			}
+		}],
+		"version": 6
+	}
+}

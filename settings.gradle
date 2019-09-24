@@ -1,0 +1,2 @@
+include ':app', ':modules', 'modules:home', 'modules:common', 'modules:plugin'
+rootProject.name='WeiBo'

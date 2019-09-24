@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiBo.iml" filepath="$PROJECT_DIR$/WeiBo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/common.iml" filepath="$PROJECT_DIR$/modules/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/home/home.iml" filepath="$PROJECT_DIR$/modules/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/plugin.iml" filepath="$PROJECT_DIR$/modules/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weibo.iml" filepath="$PROJECT_DIR$/.idea/weibo.iml" />
+    </modules>
+  </component>
+</project>
